@@ -1,0 +1,2924 @@
+[{
+  "_id": {
+    "$oid": "674be7440a756263c91fc063"
+  },
+  "therapistID": 1,
+  "therapist_first_name": "Lotta",
+  "therapist_last_name": "Bargh",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "8727799769"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc064"
+  },
+  "therapistID": 2,
+  "therapist_first_name": "Anatola",
+  "therapist_last_name": "Bumpus",
+  "specialization": "Anxiety",
+  "contactNum": 1892191850
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc065"
+  },
+  "therapistID": 3,
+  "therapist_first_name": "Alma",
+  "therapist_last_name": "Screen",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "6989823360"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc066"
+  },
+  "therapistID": 4,
+  "therapist_first_name": "Frayda",
+  "therapist_last_name": "Sherrington",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "4037355479"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc067"
+  },
+  "therapistID": 5,
+  "therapist_first_name": "Noam",
+  "therapist_last_name": "O' Reagan",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9042547109"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc068"
+  },
+  "therapistID": 6,
+  "therapist_first_name": "Jillayne",
+  "therapist_last_name": "Galiford",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "4495530893"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc069"
+  },
+  "therapistID": 7,
+  "therapist_first_name": "Toni",
+  "therapist_last_name": "Dow",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "4135792752"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06a"
+  },
+  "therapistID": 8,
+  "therapist_first_name": "Bartholemy",
+  "therapist_last_name": "Ellingford",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4833541726"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06b"
+  },
+  "therapistID": 9,
+  "therapist_first_name": "Paige",
+  "therapist_last_name": "Gouldthorp",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2617982509"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06c"
+  },
+  "therapistID": 10,
+  "therapist_first_name": "Phyllis",
+  "therapist_last_name": "Awdry",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8026066005"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06d"
+  },
+  "therapistID": 11,
+  "therapist_first_name": "Fairfax",
+  "therapist_last_name": "Ridding",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "3385085778"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06e"
+  },
+  "therapistID": 12,
+  "therapist_first_name": "Boigie",
+  "therapist_last_name": "Flooks",
+  "specialization": "Relationship Issues",
+  "contactNum": 1252688555
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc06f"
+  },
+  "therapistID": 13,
+  "therapist_first_name": "Esma",
+  "therapist_last_name": "Paszek",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "9248261762"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc070"
+  },
+  "therapistID": 14,
+  "therapist_first_name": "Brenden",
+  "therapist_last_name": "Gianolo",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "8257796883"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc071"
+  },
+  "therapistID": 15,
+  "therapist_first_name": "Malvin",
+  "therapist_last_name": "Cameli",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "6083881009"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc072"
+  },
+  "therapistID": 16,
+  "therapist_first_name": "Gil",
+  "therapist_last_name": "Mathelin",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9541340885"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc073"
+  },
+  "therapistID": 17,
+  "therapist_first_name": "Heindrick",
+  "therapist_last_name": "Chittenden",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "5293860499"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc074"
+  },
+  "therapistID": 18,
+  "therapist_first_name": "Alyss",
+  "therapist_last_name": "Vila",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7151502605"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc075"
+  },
+  "therapistID": 19,
+  "therapist_first_name": "Carr",
+  "therapist_last_name": "Dowyer",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "6682899175"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc076"
+  },
+  "therapistID": 20,
+  "therapist_first_name": "Agnes",
+  "therapist_last_name": "Rayman",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9197103909"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc077"
+  },
+  "therapistID": 21,
+  "therapist_first_name": "Mel",
+  "therapist_last_name": "Mardee",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3742031968"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc078"
+  },
+  "therapistID": 22,
+  "therapist_first_name": "Guillemette",
+  "therapist_last_name": "MacCart",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "4864574754"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc079"
+  },
+  "therapistID": 23,
+  "therapist_first_name": "Leo",
+  "therapist_last_name": "Capey",
+  "specialization": "Depression",
+  "contactNum": 2082420478
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07a"
+  },
+  "therapistID": 24,
+  "therapist_first_name": "Peg",
+  "therapist_last_name": "Lewsam",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3537749255"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07b"
+  },
+  "therapistID": 25,
+  "therapist_first_name": "Ninetta",
+  "therapist_last_name": "Jacob",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6706297823"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07c"
+  },
+  "therapistID": 26,
+  "therapist_first_name": "Gustave",
+  "therapist_last_name": "Dolan",
+  "specialization": "PTSD",
+  "contactNum": 1451337986
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07d"
+  },
+  "therapistID": 27,
+  "therapist_first_name": "Tallie",
+  "therapist_last_name": "Mingard",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5027971968"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07e"
+  },
+  "therapistID": 28,
+  "therapist_first_name": "Demott",
+  "therapist_last_name": "Mardling",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9238249887"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc07f"
+  },
+  "therapistID": 29,
+  "therapist_first_name": "Nonah",
+  "therapist_last_name": "Thirlwall",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "6942201160"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc080"
+  },
+  "therapistID": 30,
+  "therapist_first_name": "Torie",
+  "therapist_last_name": "Annell",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2395123530"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc081"
+  },
+  "therapistID": 31,
+  "therapist_first_name": "Jacquenette",
+  "therapist_last_name": "Jorio",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6366063960"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc082"
+  },
+  "therapistID": 32,
+  "therapist_first_name": "Orran",
+  "therapist_last_name": "Tunesi",
+  "specialization": "Relationship Issues",
+  "contactNum": 1421358029
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc083"
+  },
+  "therapistID": 33,
+  "therapist_first_name": "Caro",
+  "therapist_last_name": "Cordoba",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2545313382"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc084"
+  },
+  "therapistID": 34,
+  "therapist_first_name": "Madlen",
+  "therapist_last_name": "Tremain",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6605508244"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc085"
+  },
+  "therapistID": 35,
+  "therapist_first_name": "Flo",
+  "therapist_last_name": "Datte",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "5692010697"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc086"
+  },
+  "therapistID": 36,
+  "therapist_first_name": "Penelope",
+  "therapist_last_name": "Abrahamsen",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8991837705"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc087"
+  },
+  "therapistID": 37,
+  "therapist_first_name": "Bertina",
+  "therapist_last_name": "Mapis",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6711323825"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc088"
+  },
+  "therapistID": 38,
+  "therapist_first_name": "Elbertina",
+  "therapist_last_name": "Dominique",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2801319991"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc089"
+  },
+  "therapistID": 39,
+  "therapist_first_name": "Miltie",
+  "therapist_last_name": "Gansbuhler",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "4049085958"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08a"
+  },
+  "therapistID": 40,
+  "therapist_first_name": "Gretna",
+  "therapist_last_name": "Goodee",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "6717780507"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08b"
+  },
+  "therapistID": 41,
+  "therapist_first_name": "Julietta",
+  "therapist_last_name": "Skuce",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5193348614"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08c"
+  },
+  "therapistID": 42,
+  "therapist_first_name": "Rubia",
+  "therapist_last_name": "Minchella",
+  "specialization": "Relationship Issues",
+  "contactNum": 1982896449
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08d"
+  },
+  "therapistID": 43,
+  "therapist_first_name": "Tobye",
+  "therapist_last_name": "Hullin",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "5807065027"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08e"
+  },
+  "therapistID": 44,
+  "therapist_first_name": "Laurie",
+  "therapist_last_name": "Timmins",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2834780983"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc08f"
+  },
+  "therapistID": 45,
+  "therapist_first_name": "Nani",
+  "therapist_last_name": "Corns",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3275949138"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc090"
+  },
+  "therapistID": 46,
+  "therapist_first_name": "Iolanthe",
+  "therapist_last_name": "Harnell",
+  "specialization": "Depression",
+  "contactNum": 2027826215
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc091"
+  },
+  "therapistID": 47,
+  "therapist_first_name": "Linnet",
+  "therapist_last_name": "Money",
+  "specialization": "Substance Abuse",
+  "contactNum": 1249924109
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc092"
+  },
+  "therapistID": 48,
+  "therapist_first_name": "Blondelle",
+  "therapist_last_name": "Atto",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2371159032"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc093"
+  },
+  "therapistID": 49,
+  "therapist_first_name": "Pall",
+  "therapist_last_name": "Cammis",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2829436183"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc094"
+  },
+  "therapistID": 50,
+  "therapist_first_name": "Vasili",
+  "therapist_last_name": "Matthius",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2495404104"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc095"
+  },
+  "therapistID": 51,
+  "therapist_first_name": "Renard",
+  "therapist_last_name": "Keysall",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3645417222"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc096"
+  },
+  "therapistID": 52,
+  "therapist_first_name": "Tawsha",
+  "therapist_last_name": "Dobbins",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8213805410"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc097"
+  },
+  "therapistID": 53,
+  "therapist_first_name": "Debby",
+  "therapist_last_name": "Rearden",
+  "specialization": "Substance Abuse",
+  "contactNum": 1963301765
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc098"
+  },
+  "therapistID": 54,
+  "therapist_first_name": "Kyrstin",
+  "therapist_last_name": "Fishley",
+  "specialization": "Relationship Issues",
+  "contactNum": 1882370193
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc099"
+  },
+  "therapistID": 55,
+  "therapist_first_name": "Charla",
+  "therapist_last_name": "McCready",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "5766407631"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09a"
+  },
+  "therapistID": 56,
+  "therapist_first_name": "Ansel",
+  "therapist_last_name": "Caesman",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2995119055"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09b"
+  },
+  "therapistID": 57,
+  "therapist_first_name": "Silas",
+  "therapist_last_name": "Macguire",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6178220448"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09c"
+  },
+  "therapistID": 58,
+  "therapist_first_name": "Teodora",
+  "therapist_last_name": "Coolbear",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "5632570409"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09d"
+  },
+  "therapistID": 59,
+  "therapist_first_name": "Van",
+  "therapist_last_name": "Camsey",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "8674978692"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09e"
+  },
+  "therapistID": 60,
+  "therapist_first_name": "Christiano",
+  "therapist_last_name": "Coward",
+  "specialization": "Substance Abuse",
+  "contactNum": 1518805951
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc09f"
+  },
+  "therapistID": 61,
+  "therapist_first_name": "Josefa",
+  "therapist_last_name": "Meert",
+  "specialization": "Relationship Issues",
+  "contactNum": 1333720614
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a0"
+  },
+  "therapistID": 62,
+  "therapist_first_name": "Karalynn",
+  "therapist_last_name": "Gillingwater",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2815891050"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a1"
+  },
+  "therapistID": 63,
+  "therapist_first_name": "Ronalda",
+  "therapist_last_name": "Bartles",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "6953808920"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a2"
+  },
+  "therapistID": 64,
+  "therapist_first_name": "Jonie",
+  "therapist_last_name": "Azemar",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4711304648"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a3"
+  },
+  "therapistID": 65,
+  "therapist_first_name": "Tommy",
+  "therapist_last_name": "Mauvin",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "7432364961"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a4"
+  },
+  "therapistID": 66,
+  "therapist_first_name": "Jobey",
+  "therapist_last_name": "Ubee",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "7483742580"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a5"
+  },
+  "therapistID": 67,
+  "therapist_first_name": "Delmore",
+  "therapist_last_name": "Bearham",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2216655842"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a6"
+  },
+  "therapistID": 68,
+  "therapist_first_name": "Othella",
+  "therapist_last_name": "Gutch",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "4028769340"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a7"
+  },
+  "therapistID": 69,
+  "therapist_first_name": "Lucias",
+  "therapist_last_name": "Steffans",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "6437453970"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a8"
+  },
+  "therapistID": 70,
+  "therapist_first_name": "Vonni",
+  "therapist_last_name": "Kubik",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "9475371195"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0a9"
+  },
+  "therapistID": 71,
+  "therapist_first_name": "Isador",
+  "therapist_last_name": "McKendry",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "4551995260"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0aa"
+  },
+  "therapistID": 72,
+  "therapist_first_name": "Ezekiel",
+  "therapist_last_name": "Diego",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "9785713693"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ab"
+  },
+  "therapistID": 73,
+  "therapist_first_name": "Aurelia",
+  "therapist_last_name": "Minget",
+  "specialization": "Depression",
+  "contactNum": 1349365898
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ac"
+  },
+  "therapistID": 74,
+  "therapist_first_name": "Ashleigh",
+  "therapist_last_name": "Seekings",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5493160495"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ad"
+  },
+  "therapistID": 75,
+  "therapist_first_name": "Horst",
+  "therapist_last_name": "McKee",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2653267502"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ae"
+  },
+  "therapistID": 76,
+  "therapist_first_name": "Neale",
+  "therapist_last_name": "O'Scollee",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "9724678484"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0af"
+  },
+  "therapistID": 77,
+  "therapist_first_name": "Britte",
+  "therapist_last_name": "Druce",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9338842035"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b0"
+  },
+  "therapistID": 78,
+  "therapist_first_name": "Ronny",
+  "therapist_last_name": "Kenner",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2158785352"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b1"
+  },
+  "therapistID": 79,
+  "therapist_first_name": "Eddy",
+  "therapist_last_name": "O'Skehan",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3955117992"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b2"
+  },
+  "therapistID": 80,
+  "therapist_first_name": "Osbourn",
+  "therapist_last_name": "Canon",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "3131239314"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b3"
+  },
+  "therapistID": 81,
+  "therapist_first_name": "Chiquia",
+  "therapist_last_name": "Anten",
+  "specialization": "Anxiety",
+  "contactNum": 1691163161
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b4"
+  },
+  "therapistID": 82,
+  "therapist_first_name": "Clayton",
+  "therapist_last_name": "Fulle",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "7366588268"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b5"
+  },
+  "therapistID": 83,
+  "therapist_first_name": "Jaime",
+  "therapist_last_name": "Brannan",
+  "specialization": "Depression",
+  "contactNum": 1159862738
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b6"
+  },
+  "therapistID": 84,
+  "therapist_first_name": "Ulrick",
+  "therapist_last_name": "Loachhead",
+  "specialization": "Relationship Issues",
+  "contactNum": 1853271937
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b7"
+  },
+  "therapistID": 85,
+  "therapist_first_name": "Hendrika",
+  "therapist_last_name": "Swayton",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9359059947"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b8"
+  },
+  "therapistID": 86,
+  "therapist_first_name": "Jerrie",
+  "therapist_last_name": "Bruck",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "4831688074"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0b9"
+  },
+  "therapistID": 87,
+  "therapist_first_name": "Pammi",
+  "therapist_last_name": "Magenny",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "8955478460"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ba"
+  },
+  "therapistID": 88,
+  "therapist_first_name": "Mirabella",
+  "therapist_last_name": "Scipsey",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3148202917"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0bb"
+  },
+  "therapistID": 89,
+  "therapist_first_name": "Jacenta",
+  "therapist_last_name": "Iggulden",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "3962565253"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0bc"
+  },
+  "therapistID": 90,
+  "therapist_first_name": "Tuesday",
+  "therapist_last_name": "Alfonso",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6636963069"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0bd"
+  },
+  "therapistID": 91,
+  "therapist_first_name": "Avrit",
+  "therapist_last_name": "Wolfenden",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2399178225"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0be"
+  },
+  "therapistID": 92,
+  "therapist_first_name": "Francisco",
+  "therapist_last_name": "Wynne",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6392690884"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0bf"
+  },
+  "therapistID": 93,
+  "therapist_first_name": "Abel",
+  "therapist_last_name": "De Maria",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "5219282684"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c0"
+  },
+  "therapistID": 94,
+  "therapist_first_name": "Rolfe",
+  "therapist_last_name": "Strathman",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8552638485"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c1"
+  },
+  "therapistID": 95,
+  "therapist_first_name": "Maggie",
+  "therapist_last_name": "Jochen",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9878376225"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c2"
+  },
+  "therapistID": 96,
+  "therapist_first_name": "Rhona",
+  "therapist_last_name": "Shelf",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "5912820483"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c3"
+  },
+  "therapistID": 97,
+  "therapist_first_name": "Craggy",
+  "therapist_last_name": "Dictus",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "5526822718"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c4"
+  },
+  "therapistID": 98,
+  "therapist_first_name": "Luciano",
+  "therapist_last_name": "Jarlmann",
+  "specialization": "Substance Abuse",
+  "contactNum": 1672792880
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c5"
+  },
+  "therapistID": 99,
+  "therapist_first_name": "Deeann",
+  "therapist_last_name": "MacNeill",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9494828544"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c6"
+  },
+  "therapistID": 100,
+  "therapist_first_name": "Shem",
+  "therapist_last_name": "Prince",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "4341134029"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c7"
+  },
+  "therapistID": 101,
+  "therapist_first_name": "Bell",
+  "therapist_last_name": "Showalter",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6781787520"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c8"
+  },
+  "therapistID": 102,
+  "therapist_first_name": "Jordana",
+  "therapist_last_name": "Grumell",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9196780768"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0c9"
+  },
+  "therapistID": 103,
+  "therapist_first_name": "Nike",
+  "therapist_last_name": "Hugill",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9647379082"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ca"
+  },
+  "therapistID": 104,
+  "therapist_first_name": "Jewel",
+  "therapist_last_name": "Gossage",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6504452300"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0cb"
+  },
+  "therapistID": 105,
+  "therapist_first_name": "Yardley",
+  "therapist_last_name": "Cow",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "4219245652"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0cc"
+  },
+  "therapistID": 106,
+  "therapist_first_name": "Hilde",
+  "therapist_last_name": "Bilson",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "3195326256"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0cd"
+  },
+  "therapistID": 107,
+  "therapist_first_name": "Gabie",
+  "therapist_last_name": "Doutch",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "5806862304"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ce"
+  },
+  "therapistID": 108,
+  "therapist_first_name": "Celina",
+  "therapist_last_name": "Dosdell",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "4221215661"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0cf"
+  },
+  "therapistID": 109,
+  "therapist_first_name": "Izzy",
+  "therapist_last_name": "Mitchiner",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9989910790"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d0"
+  },
+  "therapistID": 110,
+  "therapist_first_name": "Ermin",
+  "therapist_last_name": "Jarrell",
+  "specialization": "Depression",
+  "contactNum": 1335796641
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d1"
+  },
+  "therapistID": 111,
+  "therapist_first_name": "Ianthe",
+  "therapist_last_name": "Wain",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8111665330"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d2"
+  },
+  "therapistID": 112,
+  "therapist_first_name": "Jakie",
+  "therapist_last_name": "Abys",
+  "specialization": "Relationship Issues",
+  "contactNum": 1201075754
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d3"
+  },
+  "therapistID": 113,
+  "therapist_first_name": "Marwin",
+  "therapist_last_name": "Hailes",
+  "specialization": "Substance Abuse",
+  "contactNum": 2087021315
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d4"
+  },
+  "therapistID": 114,
+  "therapist_first_name": "Christoph",
+  "therapist_last_name": "Kilrow",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5656526775"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d5"
+  },
+  "therapistID": 115,
+  "therapist_first_name": "Federico",
+  "therapist_last_name": "MacNeilley",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8936185557"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d6"
+  },
+  "therapistID": 116,
+  "therapist_first_name": "Corella",
+  "therapist_last_name": "Brideoke",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "6785524303"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d7"
+  },
+  "therapistID": 117,
+  "therapist_first_name": "Andee",
+  "therapist_last_name": "Darrach",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "7728299348"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d8"
+  },
+  "therapistID": 118,
+  "therapist_first_name": "Osbourn",
+  "therapist_last_name": "Penwright",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6411422769"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0d9"
+  },
+  "therapistID": 119,
+  "therapist_first_name": "Billi",
+  "therapist_last_name": "Gianasi",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7755199472"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0da"
+  },
+  "therapistID": 120,
+  "therapist_first_name": "Amalia",
+  "therapist_last_name": "Paggitt",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2943700040"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0db"
+  },
+  "therapistID": 121,
+  "therapist_first_name": "Cordie",
+  "therapist_last_name": "Paulich",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2206406245"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0dc"
+  },
+  "therapistID": 122,
+  "therapist_first_name": "Alexia",
+  "therapist_last_name": "Castilla",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "5527898116"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0dd"
+  },
+  "therapistID": 123,
+  "therapist_first_name": "Jeremias",
+  "therapist_last_name": "Try",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "9637124213"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0de"
+  },
+  "therapistID": 124,
+  "therapist_first_name": "Steffen",
+  "therapist_last_name": "Storer",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3885125664"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0df"
+  },
+  "therapistID": 125,
+  "therapist_first_name": "Harri",
+  "therapist_last_name": "Hardware",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3825273570"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e0"
+  },
+  "therapistID": 126,
+  "therapist_first_name": "Petronilla",
+  "therapist_last_name": "Wallen",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4799666000"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e1"
+  },
+  "therapistID": 127,
+  "therapist_first_name": "Neel",
+  "therapist_last_name": "Mahmood",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8044229219"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e2"
+  },
+  "therapistID": 128,
+  "therapist_first_name": "Zelig",
+  "therapist_last_name": "Spriddle",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3157148830"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e3"
+  },
+  "therapistID": 129,
+  "therapist_first_name": "Claiborn",
+  "therapist_last_name": "Crose",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "9983839853"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e4"
+  },
+  "therapistID": 130,
+  "therapist_first_name": "Sidonnie",
+  "therapist_last_name": "Duffer",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3449489761"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e5"
+  },
+  "therapistID": 131,
+  "therapist_first_name": "Sarina",
+  "therapist_last_name": "Kob",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "7952864581"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e6"
+  },
+  "therapistID": 132,
+  "therapist_first_name": "Ofilia",
+  "therapist_last_name": "Malkin",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8465785627"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e7"
+  },
+  "therapistID": 133,
+  "therapist_first_name": "Giffie",
+  "therapist_last_name": "Lamperti",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "8044553328"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e8"
+  },
+  "therapistID": 134,
+  "therapist_first_name": "Trudy",
+  "therapist_last_name": "Warlton",
+  "specialization": "Substance Abuse",
+  "contactNum": 1194338635
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0e9"
+  },
+  "therapistID": 135,
+  "therapist_first_name": "Felice",
+  "therapist_last_name": "Aindriu",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2229112963"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ea"
+  },
+  "therapistID": 136,
+  "therapist_first_name": "Kimball",
+  "therapist_last_name": "Custy",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "5581011436"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0eb"
+  },
+  "therapistID": 137,
+  "therapist_first_name": "Bernelle",
+  "therapist_last_name": "Garment",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2615508475"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ec"
+  },
+  "therapistID": 138,
+  "therapist_first_name": "Novelia",
+  "therapist_last_name": "Reay",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "9178914017"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ed"
+  },
+  "therapistID": 139,
+  "therapist_first_name": "Theobald",
+  "therapist_last_name": "Shotboulte",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "8559540844"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ee"
+  },
+  "therapistID": 140,
+  "therapist_first_name": "Dewie",
+  "therapist_last_name": "Winsper",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4839544462"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ef"
+  },
+  "therapistID": 141,
+  "therapist_first_name": "Paul",
+  "therapist_last_name": "Mannooch",
+  "specialization": "Anxiety",
+  "contactNum": 1579655856
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f0"
+  },
+  "therapistID": 142,
+  "therapist_first_name": "Elysia",
+  "therapist_last_name": "Maddrell",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2164733553"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f1"
+  },
+  "therapistID": 143,
+  "therapist_first_name": "Jonie",
+  "therapist_last_name": "Jowling",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6344906495"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f2"
+  },
+  "therapistID": 144,
+  "therapist_first_name": "Cobb",
+  "therapist_last_name": "Blincowe",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6711459158"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f3"
+  },
+  "therapistID": 145,
+  "therapist_first_name": "Drucy",
+  "therapist_last_name": "Takle",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "4227068335"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f4"
+  },
+  "therapistID": 146,
+  "therapist_first_name": "Mozelle",
+  "therapist_last_name": "Sawell",
+  "specialization": "PTSD",
+  "contactNum": 1638387248
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f5"
+  },
+  "therapistID": 147,
+  "therapist_first_name": "Law",
+  "therapist_last_name": "Yendle",
+  "specialization": "Depression",
+  "contactNum": 1704923579
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f6"
+  },
+  "therapistID": 148,
+  "therapist_first_name": "Karlee",
+  "therapist_last_name": "Milazzo",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "8864010198"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f7"
+  },
+  "therapistID": 149,
+  "therapist_first_name": "Erica",
+  "therapist_last_name": "Mohun",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "5672822716"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f8"
+  },
+  "therapistID": 150,
+  "therapist_first_name": "Leon",
+  "therapist_last_name": "Scadden",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "4693809839"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0f9"
+  },
+  "therapistID": 151,
+  "therapist_first_name": "Bronson",
+  "therapist_last_name": "Moretto",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "5388798671"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0fa"
+  },
+  "therapistID": 152,
+  "therapist_first_name": "Manfred",
+  "therapist_last_name": "Greenall",
+  "specialization": "PTSD",
+  "contactNum": 1707685949
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0fb"
+  },
+  "therapistID": 153,
+  "therapist_first_name": "Freeland",
+  "therapist_last_name": "Udden",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "8571466183"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0fc"
+  },
+  "therapistID": 154,
+  "therapist_first_name": "Brandie",
+  "therapist_last_name": "Gerasch",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7493107602"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0fd"
+  },
+  "therapistID": 155,
+  "therapist_first_name": "Karrie",
+  "therapist_last_name": "Hagart",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "7921861661"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0fe"
+  },
+  "therapistID": 156,
+  "therapist_first_name": "Verina",
+  "therapist_last_name": "Wallwood",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3894257727"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc0ff"
+  },
+  "therapistID": 157,
+  "therapist_first_name": "Starla",
+  "therapist_last_name": "McNelly",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "2836382328"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc100"
+  },
+  "therapistID": 158,
+  "therapist_first_name": "Luciano",
+  "therapist_last_name": "McDonagh",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "7814116955"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc101"
+  },
+  "therapistID": 159,
+  "therapist_first_name": "Fred",
+  "therapist_last_name": "Feighney",
+  "specialization": "Relationship Issues",
+  "contactNum": 1821120478
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc102"
+  },
+  "therapistID": 160,
+  "therapist_first_name": "Fae",
+  "therapist_last_name": "Berr",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "4648387350"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc103"
+  },
+  "therapistID": 161,
+  "therapist_first_name": "Ortensia",
+  "therapist_last_name": "Le Marquand",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2909405702"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc104"
+  },
+  "therapistID": 162,
+  "therapist_first_name": "Kerk",
+  "therapist_last_name": "De Gregoli",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6534345435"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc105"
+  },
+  "therapistID": 163,
+  "therapist_first_name": "Jacquenetta",
+  "therapist_last_name": "Brixey",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "9578851829"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc106"
+  },
+  "therapistID": 164,
+  "therapist_first_name": "Rand",
+  "therapist_last_name": "Pandie",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8389638984"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc107"
+  },
+  "therapistID": 165,
+  "therapist_first_name": "Archibold",
+  "therapist_last_name": "Kolakowski",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3383832904"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc108"
+  },
+  "therapistID": 166,
+  "therapist_first_name": "Kimberlyn",
+  "therapist_last_name": "Nawton",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8274083070"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc109"
+  },
+  "therapistID": 167,
+  "therapist_first_name": "Hymie",
+  "therapist_last_name": "Bedberry",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2265025311"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10a"
+  },
+  "therapistID": 168,
+  "therapist_first_name": "Georas",
+  "therapist_last_name": "Doel",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "3696654001"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10b"
+  },
+  "therapistID": 169,
+  "therapist_first_name": "Tova",
+  "therapist_last_name": "Wildman",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "7801493510"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10c"
+  },
+  "therapistID": 170,
+  "therapist_first_name": "Ansel",
+  "therapist_last_name": "Oliphand",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6195107952"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10d"
+  },
+  "therapistID": 171,
+  "therapist_first_name": "Steffi",
+  "therapist_last_name": "Leggon",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4952539551"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10e"
+  },
+  "therapistID": 172,
+  "therapist_first_name": "Athene",
+  "therapist_last_name": "Rayer",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3019710762"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc10f"
+  },
+  "therapistID": 173,
+  "therapist_first_name": "Cami",
+  "therapist_last_name": "Pulham",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "8822254310"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc110"
+  },
+  "therapistID": 174,
+  "therapist_first_name": "Sibeal",
+  "therapist_last_name": "Trevon",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "5857113671"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc111"
+  },
+  "therapistID": 175,
+  "therapist_first_name": "Edgar",
+  "therapist_last_name": "Pedri",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3379802150"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc112"
+  },
+  "therapistID": 176,
+  "therapist_first_name": "Cordie",
+  "therapist_last_name": "Vockins",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6697574071"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc113"
+  },
+  "therapistID": 177,
+  "therapist_first_name": "Raoul",
+  "therapist_last_name": "Brownsey",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5197064415"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc114"
+  },
+  "therapistID": 178,
+  "therapist_first_name": "Pieter",
+  "therapist_last_name": "Janous",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "6038625101"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc115"
+  },
+  "therapistID": 179,
+  "therapist_first_name": "Zelda",
+  "therapist_last_name": "Marl",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6269890565"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc116"
+  },
+  "therapistID": 180,
+  "therapist_first_name": "Zaccaria",
+  "therapist_last_name": "Elsegood",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8801194274"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc117"
+  },
+  "therapistID": 181,
+  "therapist_first_name": "Darelle",
+  "therapist_last_name": "Phidgin",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "9718141578"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc118"
+  },
+  "therapistID": 182,
+  "therapist_first_name": "Corinna",
+  "therapist_last_name": "Niland",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3566028856"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc119"
+  },
+  "therapistID": 183,
+  "therapist_first_name": "Kaile",
+  "therapist_last_name": "Cohane",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "7006051678"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11a"
+  },
+  "therapistID": 184,
+  "therapist_first_name": "Alf",
+  "therapist_last_name": "Durrett",
+  "specialization": "Relationship Issues",
+  "contactNum": 1877461169
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11b"
+  },
+  "therapistID": 185,
+  "therapist_first_name": "Jami",
+  "therapist_last_name": "Vivians",
+  "specialization": "Substance Abuse",
+  "contactNum": 1634164721
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11c"
+  },
+  "therapistID": 186,
+  "therapist_first_name": "Quintina",
+  "therapist_last_name": "Eva",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6677804465"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11d"
+  },
+  "therapistID": 187,
+  "therapist_first_name": "Keith",
+  "therapist_last_name": "Veryan",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6306630192"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11e"
+  },
+  "therapistID": 188,
+  "therapist_first_name": "Pam",
+  "therapist_last_name": "Sandercock",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "5653517234"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc11f"
+  },
+  "therapistID": 189,
+  "therapist_first_name": "Sergio",
+  "therapist_last_name": "Winspar",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "6171503281"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc120"
+  },
+  "therapistID": 190,
+  "therapist_first_name": "Artemas",
+  "therapist_last_name": "Reeson",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "9867529610"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc121"
+  },
+  "therapistID": 191,
+  "therapist_first_name": "Fan",
+  "therapist_last_name": "Merriman",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "4273619290"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc122"
+  },
+  "therapistID": 192,
+  "therapist_first_name": "Sibeal",
+  "therapist_last_name": "Litel",
+  "specialization": "Substance Abuse",
+  "contactNum": 2088263547
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc123"
+  },
+  "therapistID": 193,
+  "therapist_first_name": "Georgeanne",
+  "therapist_last_name": "De Beauchamp",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "7077234854"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc124"
+  },
+  "therapistID": 194,
+  "therapist_first_name": "Glenda",
+  "therapist_last_name": "Odams",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8126382102"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc125"
+  },
+  "therapistID": 195,
+  "therapist_first_name": "Adham",
+  "therapist_last_name": "Iacopini",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "8983488099"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc126"
+  },
+  "therapistID": 196,
+  "therapist_first_name": "Loy",
+  "therapist_last_name": "Hacquard",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5966332958"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc127"
+  },
+  "therapistID": 197,
+  "therapist_first_name": "Aryn",
+  "therapist_last_name": "Reeken",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "9899439994"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc128"
+  },
+  "therapistID": 198,
+  "therapist_first_name": "Steward",
+  "therapist_last_name": "Ellacott",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "2964472038"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc129"
+  },
+  "therapistID": 199,
+  "therapist_first_name": "Ruben",
+  "therapist_last_name": "Cowlam",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "3296769094"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12a"
+  },
+  "therapistID": 200,
+  "therapist_first_name": "Gilda",
+  "therapist_last_name": "Tuley",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "3283049496"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12b"
+  },
+  "therapistID": 201,
+  "therapist_first_name": "Aigneis",
+  "therapist_last_name": "McKenney",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6575156546"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12c"
+  },
+  "therapistID": 202,
+  "therapist_first_name": "Lizzy",
+  "therapist_last_name": "Mablestone",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "9565939263"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12d"
+  },
+  "therapistID": 203,
+  "therapist_first_name": "Krishna",
+  "therapist_last_name": "Colpus",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4423989276"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12e"
+  },
+  "therapistID": 204,
+  "therapist_first_name": "Obidiah",
+  "therapist_last_name": "Robbs",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "2848172214"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc12f"
+  },
+  "therapistID": 205,
+  "therapist_first_name": "Bil",
+  "therapist_last_name": "Authers",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3321327703"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc130"
+  },
+  "therapistID": 206,
+  "therapist_first_name": "Elva",
+  "therapist_last_name": "Coatman",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3505729291"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc131"
+  },
+  "therapistID": 207,
+  "therapist_first_name": "Ezequiel",
+  "therapist_last_name": "Balaison",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7055315183"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc132"
+  },
+  "therapistID": 208,
+  "therapist_first_name": "Gerek",
+  "therapist_last_name": "Jorcke",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "9895073641"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc133"
+  },
+  "therapistID": 209,
+  "therapist_first_name": "Micaela",
+  "therapist_last_name": "Clover",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3151904568"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc134"
+  },
+  "therapistID": 210,
+  "therapist_first_name": "Benedikta",
+  "therapist_last_name": "Fetherby",
+  "specialization": "Substance Abuse",
+  "contactNum": 1485520248
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc135"
+  },
+  "therapistID": 211,
+  "therapist_first_name": "Rycca",
+  "therapist_last_name": "Collumbell",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3495056949"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc136"
+  },
+  "therapistID": 212,
+  "therapist_first_name": "Chan",
+  "therapist_last_name": "Draaisma",
+  "specialization": "PTSD",
+  "contactNum": 1836389891
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc137"
+  },
+  "therapistID": 213,
+  "therapist_first_name": "John",
+  "therapist_last_name": "Haymes",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "8008548831"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc138"
+  },
+  "therapistID": 214,
+  "therapist_first_name": "Alejandra",
+  "therapist_last_name": "Duchart",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3957593595"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc139"
+  },
+  "therapistID": 215,
+  "therapist_first_name": "Tore",
+  "therapist_last_name": "Mincini",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5414923707"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13a"
+  },
+  "therapistID": 216,
+  "therapist_first_name": "Rachael",
+  "therapist_last_name": "Nelius",
+  "specialization": "Depression",
+  "contactNum": 1017046024
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13b"
+  },
+  "therapistID": 217,
+  "therapist_first_name": "Brook",
+  "therapist_last_name": "Bew",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6966849531"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13c"
+  },
+  "therapistID": 218,
+  "therapist_first_name": "Arabel",
+  "therapist_last_name": "Janowski",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "9358747146"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13d"
+  },
+  "therapistID": 219,
+  "therapist_first_name": "Libbie",
+  "therapist_last_name": "Danieli",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "3171519481"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13e"
+  },
+  "therapistID": 220,
+  "therapist_first_name": "Martina",
+  "therapist_last_name": "Papes",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "8712780972"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc13f"
+  },
+  "therapistID": 221,
+  "therapist_first_name": "Woodman",
+  "therapist_last_name": "Bowhay",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "2484197927"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc140"
+  },
+  "therapistID": 222,
+  "therapist_first_name": "Kerry",
+  "therapist_last_name": "Rowley",
+  "specialization": "PTSD",
+  "contactNum": 1225552548
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc141"
+  },
+  "therapistID": 223,
+  "therapist_first_name": "Garvy",
+  "therapist_last_name": "Pitkin",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "6383636285"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc142"
+  },
+  "therapistID": 224,
+  "therapist_first_name": "Nessi",
+  "therapist_last_name": "Arrington",
+  "specialization": "Anxiety",
+  "contactNum": 1961368057
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc143"
+  },
+  "therapistID": 225,
+  "therapist_first_name": "Athene",
+  "therapist_last_name": "Follet",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "3388833541"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc144"
+  },
+  "therapistID": 226,
+  "therapist_first_name": "Nina",
+  "therapist_last_name": "Stanford",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "2289725277"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc145"
+  },
+  "therapistID": 227,
+  "therapist_first_name": "Lida",
+  "therapist_last_name": "Sperwell",
+  "specialization": "Relationship Issues",
+  "contactNum": 1866748180
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc146"
+  },
+  "therapistID": 228,
+  "therapist_first_name": "Brennen",
+  "therapist_last_name": "Downs",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "2681953465"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc147"
+  },
+  "therapistID": 229,
+  "therapist_first_name": "Brockie",
+  "therapist_last_name": "Ritchman",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "7887992860"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc148"
+  },
+  "therapistID": 230,
+  "therapist_first_name": "Raphaela",
+  "therapist_last_name": "Leas",
+  "specialization": "PTSD",
+  "contactNum": 1518001995
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc149"
+  },
+  "therapistID": 231,
+  "therapist_first_name": "Janessa",
+  "therapist_last_name": "Pressnell",
+  "specialization": "Anxiety",
+  "contactNum": 2101807598
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14a"
+  },
+  "therapistID": 232,
+  "therapist_first_name": "Juliette",
+  "therapist_last_name": "Gammon",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "7306864300"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14b"
+  },
+  "therapistID": 233,
+  "therapist_first_name": "Cleopatra",
+  "therapist_last_name": "Sailor",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "4244187872"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14c"
+  },
+  "therapistID": 234,
+  "therapist_first_name": "Guthry",
+  "therapist_last_name": "Issacof",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "5309193725"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14d"
+  },
+  "therapistID": 235,
+  "therapist_first_name": "Mitchell",
+  "therapist_last_name": "Thompson",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "4674872222"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14e"
+  },
+  "therapistID": 236,
+  "therapist_first_name": "Corinne",
+  "therapist_last_name": "Doniso",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8722203870"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc14f"
+  },
+  "therapistID": 237,
+  "therapist_first_name": "Dick",
+  "therapist_last_name": "Tookey",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "5411421809"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc150"
+  },
+  "therapistID": 238,
+  "therapist_first_name": "Gregory",
+  "therapist_last_name": "Beseke",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "9873363259"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc151"
+  },
+  "therapistID": 239,
+  "therapist_first_name": "Aguie",
+  "therapist_last_name": "Jellard",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "6359564206"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc152"
+  },
+  "therapistID": 240,
+  "therapist_first_name": "Allyce",
+  "therapist_last_name": "Giacomelli",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "9408831306"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc153"
+  },
+  "therapistID": 241,
+  "therapist_first_name": "Tasha",
+  "therapist_last_name": "Nottingam",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "2608954280"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc154"
+  },
+  "therapistID": 242,
+  "therapist_first_name": "Glennie",
+  "therapist_last_name": "Normandale",
+  "specialization": "Depression",
+  "contactNum": 2072112766
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc155"
+  },
+  "therapistID": 243,
+  "therapist_first_name": "Arline",
+  "therapist_last_name": "Heinz",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3936889848"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc156"
+  },
+  "therapistID": 244,
+  "therapist_first_name": "Elana",
+  "therapist_last_name": "Beran",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "6177642229"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc157"
+  },
+  "therapistID": 245,
+  "therapist_first_name": "Stephani",
+  "therapist_last_name": "Samet",
+  "specialization": "Anxiety",
+  "contactNum": {
+    "$numberLong": "8992038692"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc158"
+  },
+  "therapistID": 246,
+  "therapist_first_name": "Vivienne",
+  "therapist_last_name": "Kubu",
+  "specialization": "Relationship Issues",
+  "contactNum": {
+    "$numberLong": "4991521574"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc159"
+  },
+  "therapistID": 247,
+  "therapist_first_name": "Elbert",
+  "therapist_last_name": "Casotti",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7697454269"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc15a"
+  },
+  "therapistID": 248,
+  "therapist_first_name": "Graeme",
+  "therapist_last_name": "Mundle",
+  "specialization": "Depression",
+  "contactNum": {
+    "$numberLong": "3149097386"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc15b"
+  },
+  "therapistID": 249,
+  "therapist_first_name": "Melitta",
+  "therapist_last_name": "Sprott",
+  "specialization": "Substance Abuse",
+  "contactNum": {
+    "$numberLong": "8645722819"
+  }
+},
+{
+  "_id": {
+    "$oid": "674be7440a756263c91fc15c"
+  },
+  "therapistID": 250,
+  "therapist_first_name": "Eve",
+  "therapist_last_name": "Bridges",
+  "specialization": "PTSD",
+  "contactNum": {
+    "$numberLong": "7441854314"
+  }
+}]
