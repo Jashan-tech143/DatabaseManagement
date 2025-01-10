@@ -1,7 +1,7 @@
 ## Name: Jashan
 ## Project Name: iCare4U - A Mental Health Platform  
 
-# Developed and optimized a mental health platform where users can book therapy sessions with specialized therapists. The platform includes functionality for client management, session bookings, therapist feedback, and specializations (as a bridge table, many-to-many relationship).
+# Developed and optimized a mental health platform where users can book therapy sessions with specialized therapists. The platform includes functionality for client management, session bookings, therapist feedback, and specializations (as a bridge table, many-to-many relationship) using SQL Server Management Studio (SSMS).
 
 # Key Tasks & Achievements:
 
