@@ -1,0 +1,5 @@
+# An example of generating report after providing required info: 
+
+Changed database context to 'FinalTerm'.
+FirstName                           LastName                            Session                                       Date                    Status      
+----------------------------------- ----------------------------------- --------------------------------------------- ----------------------- ------------
