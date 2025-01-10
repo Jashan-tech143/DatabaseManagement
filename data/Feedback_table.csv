@@ -1,0 +1,251 @@
+session_id,client_id,therapist_id,rating,comment_2
+1,1,1,3,ut odio cras mi
+2,2,2,3,amet consectetuer adipiscing
+3,3,3,5,suscipit ligula in lacus
+4,4,4,1,mauris vulputate elementum
+5,5,5,4,consequat lectus in
+6,6,6,1,curae nulla
+7,7,7,4,sapien arcu
+8,8,8,3,magnis dis parturient montes
+9,9,9,4,quam fringilla rhoncus
+10,10,10,2,enim leo rhoncus sed
+11,11,11,5,ante ipsum primis
+12,12,12,5,bibendum imperdiet nullam
+13,13,13,5,erat nulla tempus vivamus
+14,14,14,1,lorem ipsum
+15,15,15,4,interdum mauris ullamcorper purus
+16,16,16,4,orci vehicula condimentum
+17,17,17,4,in lacus curabitur
+18,18,18,3,dolor morbi vel lectus
+19,19,19,4,pellentesque ultrices
+20,20,20,5,consequat varius integer
+21,21,21,2,tellus semper
+22,22,22,1,in faucibus
+23,23,23,3,in lacus
+24,24,24,1,sem duis
+25,25,25,2,scelerisque mauris
+26,26,26,5,ut dolor morbi
+27,27,27,1,vestibulum ante ipsum primis
+28,28,28,1,maecenas leo odio
+29,29,29,3,pellentesque viverra pede ac
+30,30,30,5,eget tempus
+31,31,31,1,turpis adipiscing
+32,32,32,3,duis faucibus accumsan
+33,33,33,2,justo lacinia
+34,34,34,4,odio justo sollicitudin
+35,35,35,4,suscipit ligula in lacus
+36,36,36,4,sit amet
+37,37,37,1,ultrices posuere cubilia curae
+38,38,38,1,morbi quis
+39,39,39,5,feugiat non
+40,40,40,1,vestibulum aliquet ultrices erat
+41,41,41,5,in tempor turpis nec
+42,42,42,3,elit proin risus praesent
+43,43,43,4,aliquam lacus
+44,44,44,4,fusce lacus purus aliquet
+45,45,45,5,sit amet
+46,46,46,1,in hac habitasse platea
+47,47,47,4,integer non
+48,48,48,5,ultricies eu nibh
+49,49,49,2,donec posuere metus vitae
+50,50,50,4,purus aliquet at
+51,51,51,4,eros suspendisse
+52,52,52,3,libero convallis eget eleifend
+53,53,53,2,mauris enim
+54,54,54,5,vestibulum ac
+55,55,55,3,nisi nam ultrices
+56,56,56,1,est risus auctor
+57,57,57,2,odio justo sollicitudin
+58,58,58,2,cum sociis natoque
+59,59,59,3,interdum mauris
+60,60,60,4,orci luctus
+61,61,61,3,justo aliquam
+62,62,62,1,adipiscing lorem
+63,63,63,1,porta volutpat
+64,64,64,1,morbi odio odio
+65,65,65,5,aliquam convallis nunc
+66,66,66,4,congue vivamus metus
+67,67,67,5,montes nascetur ridiculus mus
+68,68,68,2,nec sem duis
+69,69,69,4,et magnis dis parturient
+70,70,70,5,velit nec
+71,71,71,2,lorem integer tincidunt ante
+72,72,72,3,ut massa volutpat convallis
+73,73,73,1,molestie hendrerit at vulputate
+74,74,74,4,posuere nonummy integer
+75,75,75,2,leo odio
+76,76,76,1,dolor morbi
+77,77,77,1,donec semper sapien
+78,78,78,4,eu massa donec dapibus
+79,79,79,3,turpis integer aliquet massa
+80,80,80,3,ut nulla
+81,81,81,5,orci luctus et
+82,82,82,4,cum sociis
+83,83,83,3,convallis morbi
+84,84,84,1,dui proin leo
+85,85,85,2,sociis natoque penatibus et
+86,86,86,3,adipiscing elit proin
+87,87,87,5,fermentum donec ut mauris
+88,88,88,1,nisl nunc nisl duis
+89,89,89,5,magna at nunc commodo
+90,90,90,2,facilisi cras
+91,91,91,4,bibendum morbi
+92,92,92,1,augue a suscipit nulla
+93,93,93,5,suspendisse potenti nullam
+94,94,94,5,ligula nec sem
+95,95,95,2,augue vestibulum
+96,96,96,1,neque vestibulum eget vulputate
+97,97,97,1,id ornare
+98,98,98,4,lobortis sapien sapien
+99,99,99,4,luctus et ultrices
+100,100,100,3,facilisi cras non
+101,101,101,5,eros viverra
+102,102,102,2,erat quisque
+103,103,103,5,nam dui proin
+104,104,104,1,amet lobortis sapien sapien
+105,105,105,5,purus sit amet
+106,106,106,4,in lectus pellentesque at
+107,107,107,4,ac diam cras
+108,108,108,3,odio condimentum id luctus
+109,109,109,2,adipiscing molestie hendrerit
+110,110,110,2,non lectus aliquam
+111,111,111,1,mauris laoreet ut
+112,112,112,3,eget massa
+113,113,113,3,ante ipsum
+114,114,114,3,duis bibendum felis sed
+115,115,115,2,etiam vel
+116,116,116,1,condimentum curabitur in libero
+117,117,117,2,primis in faucibus orci
+118,118,118,2,nulla neque libero convallis
+119,119,119,4,ante vivamus tortor
+120,120,120,5,blandit lacinia
+121,121,121,2,dictumst morbi vestibulum
+122,122,122,5,ridiculus mus etiam
+123,123,123,3,nisl venenatis lacinia aenean
+124,124,124,4,viverra eget congue
+125,125,125,1,feugiat non
+126,126,126,5,a ipsum
+127,127,127,5,sodales sed tincidunt
+128,128,128,2,ultrices aliquet maecenas
+129,129,129,1,quam pede lobortis ligula
+130,130,130,5,fringilla rhoncus mauris
+131,131,131,1,in lectus pellentesque at
+132,132,132,4,ut massa volutpat
+133,133,133,3,pede posuere nonummy integer
+134,134,134,1,non pretium quis
+135,135,135,5,nunc donec quis orci
+136,136,136,3,sociis natoque penatibus
+137,137,137,4,euismod scelerisque quam
+138,138,138,2,sit amet justo morbi
+139,139,139,5,vel lectus in quam
+140,140,140,1,vitae mattis nibh ligula
+141,141,141,5,natoque penatibus et magnis
+142,142,142,2,erat volutpat in congue
+143,143,143,2,ipsum ac tellus
+144,144,144,1,in leo maecenas pulvinar
+145,145,145,3,sapien cum
+146,146,146,5,quam suspendisse potenti
+147,147,147,4,orci nullam
+148,148,148,4,eget congue
+149,149,149,3,velit eu
+150,150,150,2,quam sapien varius ut
+151,151,151,5,in imperdiet et commodo
+152,152,152,1,id nisl venenatis
+153,153,153,1,lacus curabitur at ipsum
+154,154,154,3,consequat dui
+155,155,155,2,lectus pellentesque
+156,156,156,4,orci nullam molestie
+157,157,157,5,vivamus vestibulum
+158,158,158,3,aenean sit
+159,159,159,1,cras non
+160,160,160,2,vestibulum proin eu mi
+161,161,161,5,lacus at turpis donec
+162,162,162,1,in faucibus
+163,163,163,4,nisl duis
+164,164,164,4,velit id
+165,165,165,4,diam vitae
+166,166,166,5,orci pede
+167,167,167,2,augue vel accumsan tellus
+168,168,168,4,odio cras mi pede
+169,169,169,4,cursus urna
+170,170,170,4,ipsum primis in faucibus
+171,171,171,3,vitae mattis nibh
+172,172,172,2,cras in purus
+173,173,173,1,at velit
+174,174,174,5,mi nulla
+175,175,175,3,nulla tellus in
+176,176,176,3,mauris sit amet
+177,177,177,3,mi nulla ac enim
+178,178,178,5,tortor risus
+179,179,179,4,consectetuer eget rutrum
+180,180,180,4,porta volutpat
+181,181,181,2,consectetuer adipiscing elit
+182,182,182,2,non sodales sed
+183,183,183,1,proin interdum mauris
+184,184,184,5,vestibulum ante ipsum primis
+185,185,185,2,lacinia sapien
+186,186,186,3,a nibh in quis
+187,187,187,2,magna vestibulum
+188,188,188,4,ac diam cras pellentesque
+189,189,189,1,sagittis nam congue
+190,190,190,4,ut erat
+191,191,191,5,amet consectetuer adipiscing
+192,192,192,2,vestibulum vestibulum ante
+193,193,193,4,ipsum dolor
+194,194,194,5,nulla suscipit ligula in
+195,195,195,2,dis parturient montes nascetur
+196,196,196,2,pretium quis lectus suspendisse
+197,197,197,2,nulla nisl nunc
+198,198,198,4,augue vestibulum ante
+199,199,199,1,nulla integer pede
+200,200,200,2,leo maecenas
+201,201,201,5,lacinia erat vestibulum
+202,202,202,4,velit donec
+203,203,203,4,nunc proin at turpis
+204,204,204,5,id sapien in sapien
+205,205,205,5,adipiscing elit
+206,206,206,5,interdum mauris non ligula
+207,207,207,1,odio curabitur convallis duis
+208,208,208,4,dis parturient montes nascetur
+209,209,209,4,quis justo
+210,210,210,2,quis turpis sed ante
+211,211,211,1,nunc donec
+212,212,212,5,curabitur in libero
+213,213,213,5,justo in blandit
+214,214,214,3,pellentesque ultrices phasellus
+215,215,215,4,aliquet maecenas
+216,216,216,4,semper interdum mauris ullamcorper
+217,217,217,1,id turpis
+218,218,218,5,iaculis congue vivamus metus
+219,219,219,5,risus dapibus augue vel
+220,220,220,3,nullam varius nulla facilisi
+221,221,221,5,diam id ornare
+222,222,222,1,ullamcorper augue a
+223,223,223,1,ut mauris eget massa
+224,224,224,1,proin interdum mauris non
+225,225,225,2,convallis nunc proin at
+226,226,226,1,vulputate vitae
+227,227,227,2,risus auctor sed tristique
+228,228,228,5,in faucibus orci
+229,229,229,5,et magnis dis parturient
+230,230,230,3,nulla sed accumsan
+231,231,231,3,sit amet consectetuer adipiscing
+232,232,232,3,nascetur ridiculus mus vivamus
+233,233,233,3,ut erat id
+234,234,234,4,at diam
+235,235,235,4,sollicitudin vitae consectetuer
+236,236,236,5,nibh in hac
+237,237,237,2,semper interdum
+238,238,238,5,varius integer
+239,239,239,2,duis bibendum
+240,240,240,3,ut mauris
+241,241,241,4,lectus pellentesque eget
+242,242,242,4,felis ut at dolor
+243,243,243,1,ornare imperdiet
+244,244,244,1,justo eu
+245,245,245,1,vel augue
+246,246,246,5,sit amet lobortis sapien
+247,247,247,2,nulla pede ullamcorper
+248,248,248,1,nulla tempus vivamus in
+249,249,249,5,tortor duis mattis egestas
+250,250,250,3,non velit nec nisi
